@@ -195,14 +195,15 @@ for (let i = 1; i<= 100 ; i++)
       console.log(i);
     }
  }
+
  
 // Adding Number 1 to 20
 
-// var RESULT = 0;
-// for (let i = 1; i <=20; i++){
-//   RESULT = RESULT + i;
-// }
-// console.log("RESULT = " + RESULT);
+ var RESULT = 0;
+ for (let a = 1; a <=20; a++){
+  RESULT = RESULT + a;
+}
+ console.log("RESULT = " + RESULT);
 
 
 
